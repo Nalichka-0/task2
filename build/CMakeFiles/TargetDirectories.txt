@@ -1,0 +1,3 @@
+C:/projects/task2/build/CMakeFiles/task2_app.dir
+C:/projects/task2/build/CMakeFiles/ALL_BUILD.dir
+C:/projects/task2/build/CMakeFiles/ZERO_CHECK.dir
